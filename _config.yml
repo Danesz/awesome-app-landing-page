@@ -9,6 +9,7 @@
 #
 app:
   name: EdenGreen # REQUIRED - Enter your app name
+  developer: Daniel Dallos
   ios_id: 1422852547 # REQUIRED - 10 Digit Numeric App ID (lookup in iTunes Connect)
   android_id: com.danieldallos.myedenredbalancebe # Optional - Enter Android app id like: com.example.app
 
@@ -43,7 +44,7 @@ app:
 # Marketing
 #
 marketing_header: The EdenRed balance checker # Optional
-marketing_desc: The best third-party EdenRed* balance checker application that keeps things nice and simple.<br/><br/><br/><font size=-1>*Current supported country is Belgium.</font>
+marketing_desc: The best third-party EdenRed* balance checker application that keeps things nice and simple.<br/><br/><br/><font size=-1>*Current supported country is Belgium.<br/><br/><br/><strong>NOTE:</strong><br/>EdenGreen is an unofficial application for EdenRed card balances.<br/>The developer has no connection with Edenred Belgium.<br/>The application uses publicly available endpoints served by Edenred Belgium. Any change at the endpoint side can cause unexpected behavior in the application.</font>
 
 #
 # Social Links
@@ -56,7 +57,7 @@ social-links:
   twitter:
   pinterest:
   instagram:
-  email:
+  email: edengreen@danieldallos.com
   youtube: # channel/<your_long_string> or <user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
 
@@ -80,7 +81,7 @@ device: iphone-se-space-gray-vertical # REQUIRED
 #
 # Theme Settings
 #
-background_color: "#989898" # Optional
+background_color: "#000000" # Optional
 background_image: /images/backgrounds/adam-kring-306084-unsplash.jpg # Optional - Use Relative path e.g. images/backgrounds/image.jpg
 text_color: white # Optional
 link_color: # Optional
