@@ -44,7 +44,7 @@ app:
 # Marketing
 #
 marketing_header: The EdenRed balance checker # Optional
-marketing_desc: The best third-party EdenRed* balance checker application that keeps things nice and simple.<br/><br/><br/><font size=-1>*Current supported country is Belgium.<br/><br/><br/><strong>NOTE:</strong><br/>EdenGreen is an unofficial application for EdenRed card balances.<br/>The developer has no connection with Edenred Belgium.<br/>The application uses publicly available endpoints served by Edenred Belgium. Any change at the endpoint side can cause unexpected behavior in the application.</font>
+marketing_desc: The best third-party EdenRed* balance checker application that keeps things nice and simple.<br/><br/><br/><font size=-1>*Current supported country is Belgium.<br/><br/><br/><strong>NOTE:</strong><br/>EdenGreen is an unofficial application for EdenRed card balances.<br/>The developer has no connection with Edenred Belgium.<br/>The application uses available endpoints served by Edenred Belgium. Any change at the endpoint side can cause unexpected behavior in the application.</font>
 
 #
 # Social Links
